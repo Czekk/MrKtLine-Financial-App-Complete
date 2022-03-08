@@ -1,6 +1,6 @@
-[submodule "Frontend"]
-	path = Frontend
+[submodule "brontend"]
+	path = frontend
 	url = https://github.com/Czekk/MrKtLine-Financial-App-frontend.git
-[submodule "Backend"]
-	path = Backend
-	url = https://github.com/Czekk/-Czekk-https-github.com-Czekk-MrKtLine-Financial-App-Backend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Czekk/Czekk-MrKtLine-Financial-App-backend.git
